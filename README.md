@@ -39,10 +39,6 @@ I'm a Flutter developer who builds cross-platform mobile apps with a focus on **
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhc-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/dhc-tech/dhc-tech/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
 </p>
 
