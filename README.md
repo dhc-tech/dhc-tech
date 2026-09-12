@@ -51,18 +51,18 @@ fun_fact: "I debug offline-sync race conditions for fun 😄"
 
 <p align="center">
   <a href="https://github.com/dhc-tech/flutter-packages">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=flutter-packages&theme=tokyonight&hide_border=true" />
+    <img height="165em" src="https://gh-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=flutter-packages&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/dhc-tech/docker-images-flutter">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=docker-images-flutter&theme=tokyonight&hide_border=true" />
+    <img height="165em" src="https://gh-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=docker-images-flutter&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/dhc-tech/apple_sign_in_plugin">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=apple_sign_in_plugin&theme=tokyonight&hide_border=true" />
+    <img height="165em" src="https://gh-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=apple_sign_in_plugin&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/dhc-tech/dig_cli">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=dig_cli&theme=tokyonight&hide_border=true" />
+    <img height="165em" src="https://gh-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=dig_cli&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -73,18 +73,12 @@ fun_fact: "I debug offline-sync race conditions for fun 😄"
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhc-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=dhc-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhc-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhc-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhc-tech&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=dhc-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ### 📈 Contribution Graph
