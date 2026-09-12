@@ -14,30 +14,16 @@
   <a href="https://github.com/dhc-tech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhc-tech&label=Profile%20Views&color=02569B&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/dhc-tech?style=for-the-badge&color=02569B&logo=github&label=Followers" alt="followers"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
 
 ### 🚀 About Me
 
-```yaml
-name: Digvijaysinh Chauhan
-role: Flutter Developer
-focus: Cross-platform mobile apps, offline-first architecture, clean code
-currently_building:
-  - dhc-tech/flutter-packages       # production-ready Flutter & Dart packages
-  - dhc-tech/docker-images-flutter  # custom Flutter + Android SDK CI image
-open_source:
-  - flutter/flutter                 # reporting & discussing core SDK/tooling issues
-fun_fact: "I debug offline-sync race conditions for fun 😄"
-```
+I'm a Flutter developer who builds cross-platform mobile apps with a focus on **offline-first architecture** and **clean, maintainable code**. I maintain [`flutter-packages`](https://github.com/dhc-tech/flutter-packages) — a collection of production-ready Flutter/Dart packages — and [`docker-images-flutter`](https://github.com/dhc-tech/docker-images-flutter), a CI Docker image with automated version bumping. I also contribute to [`flutter/flutter`](https://github.com/flutter/flutter), reporting and discussing core SDK/tooling issues.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
 
 ### 🛠️ Tech Stack
 
@@ -45,7 +31,7 @@ fun_fact: "I debug offline-sync race conditions for fun 😄"
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,git,bitbucket,jira,docker,githubactions,vscode,figma" alt="tech stack" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
 
 ### 📊 GitHub Activity
 
@@ -54,17 +40,10 @@ fun_fact: "I debug offline-sync race conditions for fun 😄"
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhc-tech&color=02569B&logo=github" alt="public repos"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhc-tech&color=02569B&logo=github" alt="followers"/>
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/dhc-tech/dhc-tech/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
 
 ### 🤝 Let's Connect
 
@@ -73,5 +52,3 @@ fun_fact: "I debug offline-sync race conditions for fun 😄"
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/dhc-tech">Digvijaysinh Chauhan</a></i></p>
