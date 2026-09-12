@@ -25,9 +25,6 @@ I'm a Flutter developer who builds cross-platform mobile apps with a focus on **
 
 - 🔧 Merged a PR to **[flutter/packages](https://github.com/flutter/packages/pull/12698)** (the official Flutter plugins monorepo) — bumped `camera_android_camerax`
 - 🐛 Opened a PR and filed issues directly on **[flutter/flutter](https://github.com/flutter/flutter)**, the core SDK
-- 📦 Maintain **[flutter-packages](https://github.com/dhc-tech/flutter-packages)** — my own collection of Flutter/Dart packages, with 25+ shipped PRs
-- 🐳 Built **[docker-images-flutter](https://github.com/dhc-tech/docker-images-flutter)** — a CI Docker image with automated Flutter-version bumping
-- 💬 Reported bugs/feature requests on community packages like `bloc`, `background_downloader`, and `flutter_image_cropper`
 
 <br/>
 
