@@ -45,40 +45,59 @@ fun_fact: "I debug offline-sync race conditions for fun 😄"
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,git,bitbucket,jira,docker,githubactions,vscode,figma" alt="tech stack" />
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🧩 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/dhc-tech/flutter-packages">
-    <img height="165em" src="https://gh-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=flutter-packages&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/dhc-tech/docker-images-flutter">
-    <img height="165em" src="https://gh-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=docker-images-flutter&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/dhc-tech/apple_sign_in_plugin">
-    <img height="165em" src="https://gh-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=apple_sign_in_plugin&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/dhc-tech/dig_cli">
-    <img height="165em" src="https://gh-readme-stats.vercel.app/api/pin/?username=dhc-tech&repo=dig_cli&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/dhc-tech/flutter-packages">📦 flutter-packages</a></h4>
+      Official collection of production-ready Flutter and Dart packages maintained by DHC Tech.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/dhc-tech/flutter-packages?style=flat-square&color=02569B&logo=github" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/dhc-tech/flutter-packages?style=flat-square&color=0175C2" alt="language"/>
+      <img src="https://img.shields.io/github/last-commit/dhc-tech/flutter-packages?style=flat-square&color=success" alt="last commit"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/dhc-tech/docker-images-flutter">🐳 docker-images-flutter</a></h4>
+      Custom Flutter + Android SDK CI Docker image with an automated Flutter-version bump bot.
+      <br/><br/>
+      <img src="https://img.shields.io/github/languages/top/dhc-tech/docker-images-flutter?style=flat-square&color=2496ED" alt="language"/>
+      <img src="https://img.shields.io/github/last-commit/dhc-tech/docker-images-flutter?style=flat-square&color=success" alt="last commit"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/dhc-tech/apple_sign_in_plugin">🍎 apple_sign_in_plugin</a></h4>
+      A Flutter plugin for Apple Sign-In integration.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/dhc-tech/apple_sign_in_plugin?style=flat-square&color=02569B&logo=github" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/dhc-tech/apple_sign_in_plugin?style=flat-square&color=0175C2" alt="language"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/dhc-tech/dig_cli">⚡ dig_cli</a></h4>
+      A Dart command-line utility for streamlining developer workflows.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/dhc-tech/dig_cli?style=flat-square&color=02569B&logo=github" alt="stars"/>
+      <img src="https://img.shields.io/github/languages/top/dhc-tech/dig_cli?style=flat-square&color=0175C2" alt="language"/>
+    </td>
+  </tr>
+</table>
 
 > 🌟 Also an active contributor on **[flutter/flutter](https://github.com/flutter/flutter)** — reporting and discussing core SDK build/tooling issues.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=dhc-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhc-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=dhc-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhc-tech&color=02569B&logo=github" alt="public repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhc-tech&color=02569B&logo=github" alt="followers"/>
 </p>
 
 ### 📈 Contribution Graph
