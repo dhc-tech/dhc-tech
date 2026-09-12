@@ -47,48 +47,6 @@ fun_fact: "I debug offline-sync race conditions for fun 😄"
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🧩 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/dhc-tech/flutter-packages">📦 flutter-packages</a></h4>
-      Official collection of production-ready Flutter and Dart packages maintained by DHC Tech.
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/dhc-tech/flutter-packages?style=flat-square&color=02569B&logo=github" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/dhc-tech/flutter-packages?style=flat-square&color=0175C2" alt="language"/>
-      <img src="https://img.shields.io/github/last-commit/dhc-tech/flutter-packages?style=flat-square&color=success" alt="last commit"/>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/dhc-tech/docker-images-flutter">🐳 docker-images-flutter</a></h4>
-      Custom Flutter + Android SDK CI Docker image with an automated Flutter-version bump bot.
-      <br/><br/>
-      <img src="https://img.shields.io/github/languages/top/dhc-tech/docker-images-flutter?style=flat-square&color=2496ED" alt="language"/>
-      <img src="https://img.shields.io/github/last-commit/dhc-tech/docker-images-flutter?style=flat-square&color=success" alt="last commit"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/dhc-tech/apple_sign_in_plugin">🍎 apple_sign_in_plugin</a></h4>
-      A Flutter plugin for Apple Sign-In integration.
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/dhc-tech/apple_sign_in_plugin?style=flat-square&color=02569B&logo=github" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/dhc-tech/apple_sign_in_plugin?style=flat-square&color=0175C2" alt="language"/>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/dhc-tech/dig_cli">⚡ dig_cli</a></h4>
-      A Dart command-line utility for streamlining developer workflows.
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/dhc-tech/dig_cli?style=flat-square&color=02569B&logo=github" alt="stars"/>
-      <img src="https://img.shields.io/github/languages/top/dhc-tech/dig_cli?style=flat-square&color=0175C2" alt="language"/>
-    </td>
-  </tr>
-</table>
-
-> 🌟 Also an active contributor on **[flutter/flutter](https://github.com/flutter/flutter)** — reporting and discussing core SDK build/tooling issues.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 ### 📊 GitHub Activity
 
 <p align="center">
